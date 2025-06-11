@@ -11,16 +11,16 @@ it saves mathematicians from spending time finding the roots of quadratic equati
 -Saves people the time that would have been spent factorizing manually to find the roots ,
 by just receiving the value of the coefficients and computing the roots for the user
 
- ## Language and concepts used
+ # Language and concepts used
 -The programming language is Java.
 -Scanner was imported(to allow user to enter input)
 -else if statements(to calculate the roots)
 
-##Challenges
+#Challenges
 We tried to create a method outside the main method to compute the roots but it gave us errors we couldn't solve using basic java syntax
 which we have learnt so far, so we ended up doing everything inside the main method.
 
-##Authors
+#Authors
 1.)Rammbuda Zwonaka
 2.)Ramasimu Akonaho
 3.)Makhubele Risima 
